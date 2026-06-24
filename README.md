@@ -1,1 +1,1 @@
-# Bedrock---AI-Assist-platform
+# Bedrock_AI-Assist-platform
