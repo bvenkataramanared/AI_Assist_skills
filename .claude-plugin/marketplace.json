@@ -1,0 +1,13 @@
+{
+  "name": "ai-assist-marketplace",
+  "owner": {
+    "name": "Venkata Ramana Reddy"
+  },
+  "plugins": [
+    {
+      "name": "ai_assist_skill",
+      "source": "./",
+      "description": "Developer productivity skills (15) — onboarding, build & change, review & audit, and investigation. Skills appear namespaced as /ai_assist_skill:<skill-name>."
+    }
+  ]
+}

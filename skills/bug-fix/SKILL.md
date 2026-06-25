@@ -18,7 +18,7 @@ conventions, and test setup, which you discover from the repo.
 ## When NOT to use
 
 - Building new functionality → use `implementation`.
-- You only need a fast "what's likely causing this" pass → use `debug-triage`.
+- The failure is a production incident spanning logs/deploys/history → use `incident-investigation`.
 - Reviewing someone else's change → use `pr-review`.
 
 ## Workflow

@@ -1,6 +1,6 @@
 ---
 name: flowchart
-description: Read a codebase and draw a visual diagram of how the application works — control/data flow, module/component dependencies, or call graphs. Use when a developer wants to *see* the structure rather than read prose: "draw a flowchart", "diagram this app", "show the architecture", "map the dependencies", "visualize the flow", or "what calls what". Produces a rendered diagram (Mermaid by default). For a written explanation instead of a picture, use explain-code.
+description: Read a codebase and draw a visual diagram of how the application works — control/data flow, module/component dependencies, or call graphs. Use when a developer wants to *see* the structure rather than read prose: "draw a flowchart", "diagram this app", "show the architecture", "map the dependencies", "visualize the flow", or "what calls what". Produces a rendered diagram (Mermaid by default). For a whole-repo overview in words use codebase-onboarding; for the data model use data-model-map.
 ---
 
 # Flowchart
@@ -18,8 +18,8 @@ diagram a developer can read at a glance.
 
 ## When NOT to use
 
-- A written, narrative explanation is wanted → use `explain-code`.
-- Producing prose docs/ADRs → use `documentation`.
+- A whole-repo overview in words → use `codebase-onboarding`.
+- Mapping entities / schema / contracts → use `data-model-map`.
 
 ## Workflow
 

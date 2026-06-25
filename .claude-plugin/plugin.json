@@ -1,0 +1,8 @@
+{
+  "name": "ai_assist_skill",
+  "description": "Developer productivity skills for Claude Code — onboarding & ramp-up, build & change, repo-wide review/audit, and investigation. Each skill encodes a multi-step workflow a single prompt can't reliably reproduce.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Venkata Ramana Reddy"
+  }
+}
